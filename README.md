@@ -4,20 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Edward+Felipe+III;Full+Stack+Web+Developer" />
 
 
-A little about me :innocent: : 
-- 🎓 I am a Full Stack Software Engineer 
-- 💻 I'm currently open for work
-- 🔭 I’m currently working on website clones
-- 🌱 I’m currently learning DS & A
-- 👯 I’m looking to collaborate on fullstack projects
-- 📫 How to reach me: Email: edomfel3@gmail.com 📫 
-
-![](https://komarev.com/ghpvc/?username=E-F-III&color=blue&style=for-the-badge&label=Fans+of+EFIII)
-
 
 Technologies Used:
-
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -45,3 +33,4 @@ Technologies Used:
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edomfel3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efiii/)
+![](https://komarev.com/ghpvc/?username=E-F-III&color=blue&style=for-the-badge&label=Fans+of+EFIII)
