@@ -3,7 +3,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Edward+Felipe+III;Full+Stack+Web+Developer" />
 
+### About Me
+  Fullstack Developer
 
+  A Hawaii-born Filipino who won't let any setbacks in life stop him. Always looking to improve and grow. 
+  
+  Hawaii -> Philippines -> Back to Hawaii. 
+  
 
 #### Technologies Used:
 
