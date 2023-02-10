@@ -47,5 +47,4 @@
 ### :gear: GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-F-III&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api?username=E-F-III&theme=blue-green" />
-![](https://komarev.com/ghpvc/?username=E-F-III&color=blue&style=for-the-badge&label=Fans+of+EFIII)
 
