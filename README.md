@@ -1,8 +1,7 @@
 <!-- 
 ### [![Typing SVG] -->
 
-
-https://user-images.githubusercontent.com/75222415/218041657-c4997647-fbee-41e9-bef5-c33a67ab11b4.mp4
+![efiii logo dark](https://user-images.githubusercontent.com/75222415/218041823-d941a660-3f20-4253-bf1e-882153d9a78c.png)
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Edward+Felipe+III;Full+Stack+Web+Developer" />
 
