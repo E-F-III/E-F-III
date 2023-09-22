@@ -1,24 +1,24 @@
 <!-- 
 ### [![Typing SVG] -->
-
-![efiii logo dark](https://user-images.githubusercontent.com/75222415/218041823-d941a660-3f20-4253-bf1e-882153d9a78c.png)
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Edward+Felipe+III;Full+Stack+Web+Developer" />
 
-### About Me
-  Hawaii-born Filipino Full Stack Software Engineer.
+<!-- ![efiii logo dark](https://user-images.githubusercontent.com/75222415/218041823-d941a660-3f20-4253-bf1e-882153d9a78c.png)
+-->
+# Edward Felipe III --- @E-F-III
 
-  I have always had an interest in technology, from playing video games with my brother to attempting to dismantle a Roomba as a child. This love for technology    eventually led me to pursue a career in software engineering, which brought me to App Academy.
+  Aloha!! I'm Edward - an early career Software Engineer. I'm currently working for App Academy as a Jr Instructional Assistant, contributing to the overall success and quality of the educational experience, helping students achieve their coding and programming goals. I'm a huge nerd/geek, hiking and beach enthusiast, and (in)consistent gym goer. 
 
-  At App Academy, I honed my skills in a variety of programming languages and tools, such as Javascript, HTML, CSS, Sequelize, Express, React/Redux, Python, and Flask. I also took on the role of maintaining and organizing a Discord server for my cohort, fostering collaboration and teamwork throughout the program.
+## My values
 
-  When I'm not coding, I enjoy gaming, hiking in Hawaii, and spending time at the beach.
+Authentic self expression
+Trust
+Shared understanding and consensus
   
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edomfel3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efiii/)
   
-#### Technologies Used:
+#### Technologies:
   
 ##### Frameworks
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
