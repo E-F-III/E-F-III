@@ -7,7 +7,7 @@
 -->
 # Edward Felipe III --- @E-F-III
 
-  Aloha!! I'm Edward - an early career Software Engineer. I'm currently working for App Academy as a Jr Instructional Assistant, contributing to the overall success and quality of the educational experience, helping students achieve their coding and programming goals. I'm a huge nerd/geek, hiking and beach enthusiast, and (in)consistent gym goer. 
+  Aloha!! I'm Edward - an early career Software Engineer. I'm currently working for App Academy as a Module Assistant, contributing to the overall success and quality of the educational experience, helping students achieve their coding and programming goals. I'm a huge nerd/geek, hiking and beach enthusiast, and (in)consistent gym goer. 
 
 ## My values
 
@@ -16,7 +16,7 @@
 - Shared understanding and consensus
   
 ### :e-mail: Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edomfel3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efiii.creates@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efiii/)
   
 ### Technologies:
