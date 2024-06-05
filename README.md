@@ -40,9 +40,4 @@
 #### Operating System
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  
-  
-### :gear: GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-F-III&theme=blue-green" />
-<img src="https://github-readme-stats.vercel.app/api?username=E-F-III&theme=blue-green" />
 
