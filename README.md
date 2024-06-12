@@ -17,7 +17,9 @@
 
 ## My hobbies
 🥾 Hiking around Hawaii
+
 🏝️ Spending time at the beach
+
 🎮 Gaming (PC and Nintendo Switch)
 
   
