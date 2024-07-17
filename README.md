@@ -7,8 +7,6 @@
 -->
 # Edward Felipe III --- @E-F-III
   Aloha!! I'm Edward - an early career Software Engineer. 
-  
-  In my current role as a Module Assistant, formerly a Jr Instructional Assistant, at App Academy, I've guided fellow learners, delivered engaging lectures, and contributed to course assessments, fostering effective knowledge sharing.
 
 ## My values
 - Authentic self expression
