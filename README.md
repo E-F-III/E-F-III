@@ -6,8 +6,11 @@
 <!-- ![efiii logo dark](https://user-images.githubusercontent.com/75222415/218041823-d941a660-3f20-4253-bf1e-882153d9a78c.png)
 -->
 # Edward Felipe III --- @E-F-III
-  Aloha!! I'm Edward - an early career Software Engineer. 
+  Aloha!! I'm Edward, a Computer Engineering student at University of Hawaii @ Manoa.
 
+  I've graduated from App Academy - software engineering bootcamp - in 2022 before everyone started using AI.
+  I've taught others how to code after graduating, and am now working towards my degree. 
+  
 ## My values
 - Authentic self expression
 - Trust
