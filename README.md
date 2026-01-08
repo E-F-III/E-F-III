@@ -9,7 +9,18 @@
   Aloha!! I'm Edward, a Computer Engineering student at University of Hawaii @ Manoa.
 
   I've graduated from App Academy - software engineering bootcamp - in 2022 before everyone started using AI.
-  I've taught others how to code after graduating, and am now working towards my degree. 
+  I've taught others how to code after graduating, and am now working towards my degree.
+
+## ECE 205 Introduction
+- Hi, I'm Edward
+- I'm interested in computers and electronics
+- I'm currently learning ECE205, ECE260, MA244, etc
+- I'm originally from Oahu
+- I'm a SOPHOMORE in COMPUTER ENGR
+- I chose my major because I have a background in Software Engineering, and want to stay within or adjacent to the same industry
+- A fun fact about me is:  I've gone skydiving
+- What do I want to learn from EE 205?  New coding language, since I have experience with Javascript and Python
+- A book or movie I'd recommend is:  Sinners
   
 ## My values
 - Authentic self expression
